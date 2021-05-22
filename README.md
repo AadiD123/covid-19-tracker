@@ -3,7 +3,7 @@
 These are some of the images on the website:
 
 On computers:
-![](src/images/website_image_1.png)
+![](src/images/computer_website_img.png)
 
 On Phones:
-![](src/images/website_image_2.png)
+![](src/images/computer_website_img.png)
