@@ -2,5 +2,8 @@
 
 These are some of the images on the website:
 
-![](images/website_image_1.png)
-![](images/website_image_2.png)
+On computers:
+![](src/images/website_image_1.png)
+
+On Phones:
+![](src/images/website_image_2.png)
